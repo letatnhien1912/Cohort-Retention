@@ -1,5 +1,4 @@
-# Cohort-Retention
-Cohort Analysis | Customers Retention
+# Cohort Analysis | Customer Retention
 
 Hello! My name is Nhien Le, and this is a SQL practice project in my portfolio using a financial transactions dataset with the topic of cohort analysis of customer retention.
 

@@ -24,3 +24,5 @@ includes 6 tables:
 <img src="image/Cohort retention table.png" alt="Cohort retention table" width="600"/>
 
 <img src="image/Retention chart.png" alt="Retention chart" width="300"/>
+
+The first description we can draw from the result is that the new users decreased dramatically in the first 3 months (January, February, March) then stable in the following months. Moreover, the retention rate from the first subsequence month of January slightly and stably decreased over months (50.63% - 37.47%). However, the retention rate of February and March are not potential, the later, the lower (28.65% - 19.42% for Feb; 31.99% - 21.11% for March). Therefore, as the next step, we should define the events causing the diffence in January's customers quality and quantity in order to apply on the next strategy.
